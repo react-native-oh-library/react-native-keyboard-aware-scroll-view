@@ -162,6 +162,7 @@ declare class ScrollableComponent<P, S> extends React.Component<P, S> {
   scrollToPosition: (x: number, y: number, animated?: boolean) => void
   scrollToEnd: (animated?: boolean) => void
   scrollForExtraHeightOnAndroid: (extraHeight: number) => void
+  scrollIntoView: (element: React.Element<*>,) => void
   scrollToFocusedInput: (
     reactNode: Object,
     extraHeight?: number,

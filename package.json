@@ -13,9 +13,7 @@
         "type": "git",
         "url": "git+https://github.com/APSL/react-native-keyboard-aware-scroll-view.git"
     },
-    "harmony": {
-        "alias": "react-native-keyboard-aware-scroll-view"
-      },
+
     "tags": [
         "react",
         "react-native",

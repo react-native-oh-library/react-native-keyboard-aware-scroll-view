@@ -1,4 +1,4 @@
-# @react-native-oh-tpl/react-native-keyboard-aware-scroll-view
+# @react-native-ohos/react-native-keyboard-aware-scroll-view
 
 This project is based on [react-native-keyboard-aware-scroll-view](https://github.com/APSL/react-native-keyboard-aware-scroll-view)
 
